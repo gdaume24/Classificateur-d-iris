@@ -1,4 +1,0 @@
-Précision = vp / (vp + fp)
-Rappel = vp / (vp + fn)
-
-
